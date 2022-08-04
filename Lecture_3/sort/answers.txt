@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: bubble sort is the fastest of these three algorithms when the list is already sorted (Omgea(n))
+
+sort2 uses: merge sort
+
+How do you know?: it is by far the fasted method to sort a large list of random numbers (e.g. random50000.txt)
+
+sort3 uses: selection sort
+
+How do you know?: regardless of the list to sort (sorted, reversed or random) it takes a similar time so finish
